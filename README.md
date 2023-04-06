@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I enjoy sharing my random projects and ideas. Here are some highlights!
+
+[REPL-LOOPER](https://github.com/awwaiid/repl-looper) - A nonrs script for mashing up a programming REPL and music creation<br>
+<img src="https://github.com/awwaiid/repl-looper/raw/dev/docs/20230318-norns-screenshot.png" width="40%"/>
+
+
+
 <!--
 **awwaiid/awwaiid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
