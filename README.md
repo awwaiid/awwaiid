@@ -1,6 +1,7 @@
-I enjoy sharing my random projects and ideas. Here are some highlights :)
+I enjoy sharing my projects and ideas for all to use, learn from, build off of, or be inspired/amused by. Here are some highlights :)
 
-<img src="https://github.com/awwaiid/ghostwriter/raw/main/docs/example-kansas.gif" height=200 align="left"/>
+<img src="https://github.com/awwaiid/ghostwriter/raw/main/docs/example-kansas.gif" height=250 align="left"/>
+<img src="https://github.com/awwaiid/ghostwriter/raw/main/docs/simple-chihuahua.jpg" height=250 align="left" hspace=10/>
 
 [Ghostwriter](https://github.com/awwaiid/ghostwriter) - An exploration using the eInk reMarkable2 tablet as an interface to vision/LLM models. Imagine taking hand-written notes and having them automatically add to your TODO list. Or how about a nice game of tic-tac-toe?
 
